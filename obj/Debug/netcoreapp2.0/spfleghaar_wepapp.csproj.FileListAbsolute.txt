@@ -1,0 +1,10 @@
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/bin/Debug/netcoreapp2.0/spfleghaar_wepapp.deps.json
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/bin/Debug/netcoreapp2.0/spfleghaar_wepapp.runtimeconfig.json
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/bin/Debug/netcoreapp2.0/spfleghaar_wepapp.runtimeconfig.dev.json
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/bin/Debug/netcoreapp2.0/spfleghaar_wepapp.dll
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/bin/Debug/netcoreapp2.0/spfleghaar_wepapp.pdb
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/obj/Debug/netcoreapp2.0/spfleghaar_wepapp.csproj.CoreCompileInputs.cache
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/obj/Debug/netcoreapp2.0/spfleghaar_wepapp.AssemblyInfoInputs.cache
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/obj/Debug/netcoreapp2.0/spfleghaar_wepapp.AssemblyInfo.cs
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/obj/Debug/netcoreapp2.0/spfleghaar_wepapp.dll
+/Users/scotpfleghaar/Desktop/COP2456C Section 01 Microsoft C# Programming - Online Plus - 2017 Fall Quarter Term 2/spfleghaar_wepapp/obj/Debug/netcoreapp2.0/spfleghaar_wepapp.pdb
